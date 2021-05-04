@@ -2,7 +2,7 @@
 //  GuessTheFlagApp.swift
 //  GuessTheFlag
 //
-//  Created by Alex on 5/4/21.
+//  Created by Alex Babou on 5/4/21.
 //
 
 import SwiftUI
@@ -12,6 +12,7 @@ struct GuessTheFlagApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .preferredColorScheme(.light)
         }
     }
 }
