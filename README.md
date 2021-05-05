@@ -2,7 +2,7 @@
 A flag quiz project app from Hacking with Swift
 
 ## Demo
-<img src="https://dendev.net/Demos/GuessTheFlag.gif"/>
+<img src="https://dendev.net/Demos/GuessTheFlag-demo.gif"/>
 
 ## Notes
 #### Under the hood:
