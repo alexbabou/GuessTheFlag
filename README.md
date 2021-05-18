@@ -1,5 +1,5 @@
 # GuessTheFlag
-A flag quiz project app from Hacking with Swift
+A flag quiz project app from Hacking with Swift. To play it, simply choose the correct flag.
 
 ## Demo
 <img src="https://dendev.net/Demos/GuessTheFlag-demo.gif"/>
